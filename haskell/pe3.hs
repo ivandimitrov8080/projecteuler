@@ -1,3 +1,4 @@
+#!/usr/bin/env runghc
 main :: IO ()
 
 sieve :: Int -> [Int]

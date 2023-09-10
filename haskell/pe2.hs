@@ -1,3 +1,4 @@
+#!/usr/bin/env runghc
 main :: IO ()
 
 fibo a b = a : fibo b (a + b)
