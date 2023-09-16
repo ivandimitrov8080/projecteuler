@@ -1,6 +1,4 @@
-
-
-import Data.List
+#!/usr/bin/env runghc
 
 main :: IO ()
 
