@@ -1,7 +1,4 @@
 #!/usr/bin/env runghc
-
-import Data.List
-
 main :: IO ()
 
 primes :: [Int]
